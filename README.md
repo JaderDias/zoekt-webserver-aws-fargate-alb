@@ -9,7 +9,7 @@ zoekt-webserver hosted in Amazon Web Services using Elastic Container Service an
 
 ## Deployment
 
-1. `go install github.com/google/zoekt/cmd/zoekt-index@latest`
+1. `go install github.com/sourcegraph/zoekt/cmd/zoekt-index@latest`
 2. `cd project`
 3. `$GOPATH/bin/zoekt-index $FOLDERYOUWANTTOINDEX`
 4. `cd ..`

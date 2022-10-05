@@ -1,5 +1,6 @@
 *.zoekt
 *.csv
+*.tsv
 
 # terraform
 .terraform
